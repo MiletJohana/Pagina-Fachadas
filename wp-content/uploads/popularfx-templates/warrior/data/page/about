@@ -1,0 +1,181 @@
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_bg_type="image" ele_bg_color=" " ele_padding="10%,0%,10%,0%" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="top" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_bg_img="{{theme_url}}/images/about-bg1.jpg"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6"]
+[pl_heading heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" align="center" animation="fadeInDown" animation_delay="600"]
+
+
+
+
+<h3>About Us</h3>[/pl_heading]
+[pl_text ele_bg_hover_delay="400" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+<p style="text-align: center;"><span style="background-color: transparent; font-size: 15px; color: rgb(242, 242, 242);">Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates.Aenean eu purus massa. Maecenas malesuada, libero a eleifend mollis, sapien magna cursus neque, convallis gravida arcu felis id risus. Mauris vestibulum vel erat at porttitor. Aliquam molestie tellus et urna blandit, ornare tristique dolor semper. Nam vel tristique diam. Nulla a elementum metus. Donec imperdiet justo at vulputate volutpat. Nulla ornare nisl nec tincidunt posuere.</span></p>[/pl_text]
+[pl_inner_row stretch="auto" col_gap="9" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400"]
+[pl_inner_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_iconbox service_icon="fa fa-fire" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#fafafaff" service_icon_font_size="38" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Catchy Battles" service_title_spacing="15,0,10,0" heading_state="normal" service_heading_color="#ffffffff" service_heading_typo=",25,,400,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" ele_padding="20px,20px,20px,20px" animation="zoomIn" animation_delay="600"]
+
+
+
+
+<p><span style="color: rgb(242, 242, 242);">Nostrum cumque non rerum ducimus voluptasofficia tempore modi, nulla nisi illum, voluptates dolor sapiente ut .</span></p>[/pl_iconbox]
+[/pl_inner_col]
+[pl_inner_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_iconbox service_icon="fa fa-fire" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#fafafaff" service_icon_font_size="38" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Catchy Battles" service_title_spacing="15,0,10,0" heading_state="normal" service_heading_color="#ffffffff" service_heading_typo=",25,,400,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" ele_padding="20px,20px,20px,20px" animation="zoomIn" animation_delay="600"]
+
+
+
+
+<p><span style="color: rgb(242, 242, 242);">Nostrum cumque non rerum ducimus voluptasofficia tempore modi, nulla nisi illum, voluptates dolor sapiente ut .</span></p>[/pl_iconbox]
+[/pl_inner_col]
+[pl_inner_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_iconbox service_icon="fa fa-fire" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#fafafaff" service_icon_font_size="38" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Catchy Battles" service_title_spacing="15,0,10,0" heading_state="normal" service_heading_color="#ffffffff" service_heading_typo=",25,,400,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" ele_padding="20px,20px,20px,20px" animation="zoomIn" animation_delay="600"]
+
+
+
+
+<p><span style="color: rgb(242, 242, 242);">Nostrum cumque non rerum ducimus voluptasofficia tempore modi, nulla nisi illum, voluptates dolor sapiente ut .</span></p>[/pl_iconbox]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="full" col_gap="10" width_content="full" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/about-bg2.jpg" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding="70px,0px,70px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading heading_state="normal" color="#fcfcfcff" ele_bg_hover_delay="400" align="center" ele_margin="0px,0px,25px,0px" animation="fadeInDown" animation_delay="600"]
+
+
+
+
+<h2>Meet our dedicated Staff</h2>[/pl_heading]
+[pl_inner_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400"]
+[pl_inner_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_service service_image="{{theme_url}}/images/team1.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Jason Morley" service_title_spacing="20,0,10,15" heading_state="normal" service_heading_color="#101112ff" service_heading_typo=",22,,400,,,Solid,,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_content_spacing="0,0,0,15" ele_padding="0px,0px,25px,0px" border_width="0px,0px,2px,0px" border_color="#1d4057ff" ele_bg_type="color" ele_bg_color="#f9f9f9d3" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+
+<p>Founder</p>
+<p>Mobile: 0987654321</p>
+<p>Email: jason@warrior.com</p>[/pl_service]
+[/pl_inner_col]
+[pl_inner_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_service service_image="{{theme_url}}/images/team2.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Sara Wade" service_title_spacing="20,0,10,15" heading_state="normal" service_heading_color="#101112ff" service_heading_typo=",22,,400,,,Solid,,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_content_spacing="0,0,0,15" ele_padding="0px,0px,25px,0px" border_width="0px,0px,2px,0px" border_color="#1d4057ff" ele_bg_type="color" ele_bg_color="#f9f9f9c2" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+<p>Team Lead</p>
+<p>Mobile: 0987654321</p>
+<p>Email: sara@warrior.com</p>[/pl_service]
+[/pl_inner_col]
+[pl_inner_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_service service_image="{{theme_url}}/images/team3.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Rick Morton" service_title_spacing="20,0,10,15" heading_state="normal" service_heading_color="#101112ff" service_heading_typo=",22,,400,,,Solid,,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_content_spacing="0,0,0,15" ele_padding="0px,0px,25px,0px" border_width="0px,0px,2px,0px" border_color="#1d4057ff" ele_bg_type="color" ele_bg_color="#f9f9f9b8" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+<p>UI Designer</p>
+<p>Mobile: 0966219876</p>
+<p>Email: rick@warrior.com</p>[/pl_service]
+[/pl_inner_col]
+[pl_inner_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_service service_image="{{theme_url}}/images/team4.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Grace Mike" service_title_spacing="20,0,10,15" heading_state="normal" service_heading_color="#101112ff" service_heading_typo=",22,,400,,,Solid,,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_content_spacing="0,0,0,15" ele_padding="0px,0px,25px,0px" border_width="0px,0px,2px,0px" border_color="#1d4057ff" ele_bg_type="color" ele_bg_color="#f9f9f9b9" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+<p>Web Developer</p>
+<p>Mobile: 0958964961</p>
+<p>Email: grace@warrior.com</p>[/pl_service]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_bg_type="image" ele_bg_color=" " ele_padding="10%,0%,10%,0%" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="top" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_bg_img="{{theme_url}}/images/about-bg3.jpg"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6"]
+[pl_heading heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" align="left" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+<h2>Frequently Asked Question?
+</h2>[/pl_heading]
+[pl_accordion icon="fas fa-plus-square" active_icon="fas fa-minus-square" icon_align="left" icon_padding="10" tabs_color="#ffffffff" tabs_bg_color="#eeeeee06" tabs_active_color="#ffffff" tabs_active_bg_color="#fefefe00" tab_padding="15" tabs_content_bg_color="#ffffff00" ele_bg_hover_delay="400" acc_space="4" ele_margin="0px,0px,0px,-15px" animation="fadeInUp" animation_delay="600"]
+[pl_accordion_item title="Who can Play this game?" ele_bg_hover_delay="400" default_active="true"]
+
+
+
+
+<p><span style="color: rgb(242, 242, 242);">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu hendrerit nunc. Proin tempus pulvinar augue, quis ultrices urna consectetur non.</span></p>[/pl_accordion_item]
+[pl_accordion_item title="Will it safe during the game?" ele_bg_hover_delay="400"]
+
+
+
+
+<p><span style="color: rgb(242, 242, 242);">Aenean vulputate finibus justo et feugiat. Ut turpis lacus, dapibus quis justo id, porttitor tempor justo. . Lorem ipsum dolor sit amet, maecenas eget vestibulum justo imperdiet.
+</span></p>[/pl_accordion_item]
+[pl_accordion_item title="How difficult is the game?" ele_bg_hover_delay="400"]
+
+
+
+
+<p><span style="color: rgb(242, 242, 242);">Aenean vulputate finibus justo et feugiat. Lorem ipsum dolor sit amet, maecenas eget vestibulum justo imperdiet.Cras consequat. Praesent dapibus, neque id cursus faucibus, tortor neque, neque id cursus faucibus, tortor neque.</span></p>[/pl_accordion_item]
+[pl_accordion_item title="Why should I join in this game?" ele_bg_hover_delay="400"]
+
+
+
+
+<p><span style="color: rgb(242, 242, 242);">Praesent dapibus, neque id cursus faucibus, tortor neque.Aenean vulputate finibus justo et feugiat. Lorem ipsum dolor sit amet, maecenas eget vestibulum justo imperdiet.</span></p>[/pl_accordion_item]
+[pl_accordion_item title="Do we have to wear special costume to play in this game?" ele_bg_hover_delay="400"]
+
+
+
+
+<p><span style="color: rgb(242, 242, 242);">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu hendrerit nunc. Proin tempus pulvinar augue, quis ultrices urna consectetur non.</span></p>[/pl_accordion_item]
+[/pl_accordion]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="full" col_gap="0" width_content="full" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_image id="{{theme_url}}/images/testimonial1.jpg" id-size="full" align="center" img_hover="normal" img_filter="0,100,100,0,0,100,100" img_hover_delay="400" img_filter_hover="0,100,100,0,0,100,100" caption_color="#3E8EF7" ele_bg_hover_delay="400" overlay="true" icon="fa fa-quote-left" icon_color="#f7f7f7ff" icon_size="30" overlay_bg="rgba(0,0,0,.6)" content_position="center" animation="zoomIn" animation_delay="600"]
+
+
+
+
+<p style="text-align: center;"><span style="color: rgb(242, 242, 242); font-size: large;">Aenean suscipit eget mi act fermentum phasellus vulputate turpis tincidunt.</span></p>
+<h5 style="text-align: center;"><span style="color: rgb(242, 242, 242);">Mega Dobston</span></h5>[/pl_image]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_image id="{{theme_url}}/images/testimonial2.jpg" id-size="full" align="center" img_hover="normal" img_filter="0,100,100,0,0,100,100" img_hover_delay="400" img_filter_hover="0,100,100,0,0,100,100" caption_color="#3E8EF7" ele_bg_hover_delay="400" overlay="true" icon="fa fa-quote-left" icon_color="#f7f7f7ff" icon_size="30" overlay_bg="rgba(0,0,0,.6)" content_position="center" animation="zoomIn" animation_delay="600"]
+
+
+
+
+<p style="text-align: center;"><span style="color: rgb(242, 242, 242); font-size: large;">Aenean suscipit eget mi act fermentum phasellus vulputate turpis tincidunt.</span></p>
+<h5 style="text-align: center;"><span style="color: rgb(242, 242, 242);">Nigel Hicks</span></h5>[/pl_image]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_image id="{{theme_url}}/images/testimonial3.jpg" id-size="full" align="center" img_hover="normal" img_filter="0,100,100,0,0,100,100" img_hover_delay="400" img_filter_hover="0,100,100,0,0,100,100" caption_color="#3E8EF7" ele_bg_hover_delay="400" overlay="true" icon="fa fa-quote-left" icon_color="#f7f7f7ff" icon_size="30" overlay_bg="rgba(0,0,0,.6)" content_position="center" animation="zoomIn" animation_delay="600"]
+
+
+
+
+<p style="text-align: center;"><span style="color: rgb(242, 242, 242); font-size: large;">Aenean suscipit eget mi act fermentum phasellus vulputate turpis tincidunt.</span></p>
+<h5 style="text-align: center;"><span style="color: rgb(242, 242, 242);">Darcy Warner</span></h5>[/pl_image]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_image id="{{theme_url}}/images/testimonial4.jpg" id-size="full" align="center" img_hover="normal" img_filter="0,100,100,0,0,100,100" img_hover_delay="400" img_filter_hover="0,100,100,0,0,100,100" caption_color="#3E8EF7" ele_bg_hover_delay="400" overlay="true" icon="fa fa-quote-left" icon_color="#f7f7f7ff" icon_size="30" overlay_bg="rgba(0,0,0,.6)" content_position="center" ele_padding="0px,0px,0px,0px" animation="zoomIn" animation_delay="600"]
+
+
+
+
+<p style="text-align: center;"><span style="color: rgb(242, 242, 242); font-size: large;">Aenean suscipit eget mi act fermentum phasellus vulputate turpis tincidunt.</span></p>
+<h5 style="text-align: center;"><span style="color: rgb(242, 242, 242);">Kevin Fraser</span></h5>[/pl_image]
+[/pl_col]
+[/pl_row]

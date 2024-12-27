@@ -1,0 +1,81 @@
+[pl_row stretch="full" col_gap="0" width_content="full" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_google_maps zoom="10" height="350" ele_bg_hover_delay="400"]
+
+
+
+
+New York, New York, USA[/pl_google_maps]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_margin="0px,0px,0px,0px" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/contact-bg.jpg" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding="70px,0px,70px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="7"]
+[pl_heading heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" animation="fadeInDown" animation_delay="600"]
+
+
+
+
+<h2>Leave a Message</h2>[/pl_heading]
+[pl_text ele_bg_hover_delay="400" animation="fadeInDown" animation_delay="600"]
+
+
+
+<p><span style="color: rgb(242, 242, 242);">Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos nam nec ante, urna non. Praesent mauris nec tellus.</span></p>[/pl_text]
+[pl_contact form="contact-form" name="Contact Form" form_position="default" space_label=",,10," input_padding="10,10" radio_padding="10,10" field_hover_delay="400" submit="Send Message" type="pagelayer-btn-dark" size="pagelayer-btn-small" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" ele_bg_hover_delay="400" form_input_bg="#f9f9f905" field_border_type="solid" field_border_color="#ffffffff" animation="fadeInUp" animation_delay="600"]
+[pl_contact_item label_name="Name" field_type="text" values="One
+Two" field_name="name" field_width="100" space_between="0,0,5,0" ele_bg_hover_delay="400" label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item label_name="Email" field_type="email" values="One
+Two" field_name="email" field_width="100" space_between="0,0,5,0" ele_bg_hover_delay="400" label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item label_name="Subject" field_type="text" values="One
+Two" field_name="subject" field_width="100" space_between="0,0,5,0" ele_bg_hover_delay="400" label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item label_name="Message" field_type="textarea" values="One
+Two" field_name="name" field_width="100" space_between="0,0,0,0" ele_bg_hover_delay="400" label_as_holder="true" textarea_rows="6"]
+[/pl_contact_item]
+[/pl_contact]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_heading heading_state="normal" color="#fafafaff" ele_bg_hover_delay="400" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+<h2>Need Help?</h2>[/pl_heading]
+[pl_text ele_bg_hover_delay="400" animation="fadeInUp" animation_delay="600"]
+
+
+
+<p><span style="color: rgb(242, 242, 242);">Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus.</span></p>[/pl_text]
+[pl_text ele_bg_hover_delay="400" ele_bg_type="color" ele_bg_color="#f9f9f9cd" ele_padding="20px,20px,20px,20px" border_width="0px,0px,0px,2px" border_color="#1d4057ff" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+<h5>Sales & Billing</h5>
+<p>sales@hosting.com</p>[/pl_text]
+[pl_text ele_bg_hover_delay="400" ele_bg_type="color" ele_bg_color="#f9f9f9cd" ele_padding="20px,20px,20px,20px" border_width="0px,0px,0px,2px" border_color="#1d4057ff" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+<h5>24/7 Support</h5>
+<p>support@hosting.com</p>[/pl_text]
+[pl_text ele_bg_hover_delay="400" ele_bg_type="color" ele_bg_color="#f9f9f9cd" ele_padding="20px,20px,20px,20px" border_width="0px,0px,0px,2px" border_color="#1d4057ff" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+<h5>Feedback</h5>
+<p>feedback@hosting.com</p>[/pl_text]
+[pl_text ele_bg_hover_delay="400" ele_bg_type="color" ele_bg_color="#f9f9f9cd" ele_padding="20px,20px,20px,20px" border_width="0px,0px,0px,2px" border_color="#1d4057ff" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+<h5>Bugs Report</h5>
+<p>bugs@hosting.com</p>[/pl_text]
+[/pl_col]
+[/pl_row]

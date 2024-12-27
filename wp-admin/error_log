@@ -1,0 +1,16 @@
+[17-Apr-2024 17:23:34 UTC] PHP Warning:  file_get_contents(https://acasoluciones.co/wp-content/uploads/2024/04/banner-02.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/masterqu/public_html/acasoluciones.co/wp-includes/class-wp-image-editor-imagick.php on line 156
+[17-Apr-2024 17:23:38 UTC] PHP Warning:  file_get_contents(https://acasoluciones.co/wp-content/uploads/2024/04/banner-02.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/masterqu/public_html/acasoluciones.co/wp-includes/class-wp-image-editor-imagick.php on line 156
+[17-Apr-2024 17:24:12 UTC] PHP Warning:  file_get_contents(https://acasoluciones.co/wp-content/uploads/2024/04/banner-02.png): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/masterqu/public_html/acasoluciones.co/wp-includes/class-wp-image-editor-imagick.php on line 156
+[27-May-2024 20:16:13 UTC] PHP Warning:  Undefined array key "before_widget" in /home/masterqu/public_html/acasoluciones.co/wp-includes/widgets/class-wp-widget-custom-html.php on line 171
+[27-May-2024 20:16:13 UTC] PHP Warning:  Undefined array key "after_widget" in /home/masterqu/public_html/acasoluciones.co/wp-includes/widgets/class-wp-widget-custom-html.php on line 180
+[05-Jul-2024 16:56:27 UTC] PHP Warning:  Undefined array key "before_widget" in /home/masterqu/public_html/acasoluciones.co/wp-content/plugins/fluentform/app/Modules/Widgets/SidebarWidgets.php on line 26
+[05-Jul-2024 16:56:27 UTC] PHP Warning:  Undefined array key "after_widget" in /home/masterqu/public_html/acasoluciones.co/wp-content/plugins/fluentform/app/Modules/Widgets/SidebarWidgets.php on line 37
+[05-Jul-2024 16:56:31 UTC] PHP Warning:  Undefined array key "before_widget" in /home/masterqu/public_html/acasoluciones.co/wp-content/plugins/fluentform/app/Modules/Widgets/SidebarWidgets.php on line 26
+[05-Jul-2024 16:56:31 UTC] PHP Warning:  Undefined array key "after_widget" in /home/masterqu/public_html/acasoluciones.co/wp-content/plugins/fluentform/app/Modules/Widgets/SidebarWidgets.php on line 37
+[16-Jul-2024 14:39:48 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/masterqu/public_html/acasoluciones.co/wp-includes/class-wp-block-list.php on line 93
+[18-Jul-2024 14:15:06 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/masterqu/public_html/acasoluciones.co/wp-content/plugins/pagelayer/lib/pquery/gan_tokenizer.php on line 433
+[18-Jul-2024 14:17:52 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/masterqu/public_html/acasoluciones.co/wp-content/plugins/pagelayer/lib/pquery/gan_tokenizer.php on line 413
+[02-Sep-2024 16:56:12 UTC] PHP Warning:  Undefined array key "featured_image" in /home/masterqu/public_html/acasoluciones.co/wp-content/plugins/pagelayer/main/ajax.php on line 256
